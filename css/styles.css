@@ -625,7 +625,9 @@ button.royal-standard.active span.servicePrice{ color : #FFF;}
     background-color:#818182;
 }
 
-
+section#Testimonial{
+  margin-top: 4em;
+}
 .inclusion{
 	font-size:3vw;
 }
@@ -1313,6 +1315,18 @@ p.para-text-land {
 
 p.text-center.text-size {
     font-size: 1.5rem;
+}
+
+
+span.serviceType{
+  font-size: 2rem;
+}
+
+span.servicePrice{
+  font-size: 2rem;
+}
+.rg-btn{
+  font-size: 2rem;
 }
 
 }
