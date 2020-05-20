@@ -1334,38 +1334,39 @@ span.servicePrice{
 /*2280*/
 @media only screen and (min-width: 142.5em){
   .header2-text {
-    font-size: 4vw;
+    font-size: 3vw;
 }
 
 .header1-text {
     font-weight: 700;
-    font-size: 7vw;
+    font-size: 6vw;
 }
 
 #parallelogram {
    position: relative;
-   width: 38vw;
-   height: 3vw;
+   width: 28vw;
+   height: 2.5vw;
    transform: skew(-20deg);
    background: #FBAF1A;
-   margin-left: -4%;
+   margin-left: 1%;
 }
 
 #parallelogram .para-landing-page {
-   font-size: 2vw;
+   font-size: 1.5vw;
    color: #000;
 }
+
 #scnd-parallelogram {
    position: absolute;
-   width: 25vw;
-   height: 5vw;
+   width: 21vw;
+   height: 4vw;
    transform: skew(-20deg);
    background: #0652DD;
-   margin-left: 35.6%;
-   margin-top: -4%;
+   margin-left: 27.6%;
+   margin-top: -3%;
 }
 #scnd-parallelogram .scnd-para-text {
-   font-size: 3vw;
+   font-size: 2.5vw;
 }
 
 .img-icon-rg {
