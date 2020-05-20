@@ -1235,7 +1235,7 @@ p.para-text-land {
 #parallelogram {
    position: relative;
    width: 37vw;
-   height: 4vw;
+   height: 3vw;
    transform: skew(-20deg);
    background: #FBAF1A;
    margin-left: 6%;
@@ -1247,12 +1247,12 @@ p.para-text-land {
 }
 #scnd-parallelogram {
    position: absolute;
-   width: 27vw;
-   height: 6vw;
+   width: 29vw;
+   height: 5vw;
    transform: skew(-20deg);
    background: #0652DD;
    margin-left: 40.6%;
-   margin-top: -5%;
+   margin-top: -4%;
 }
 #scnd-parallelogram .scnd-para-text {
    font-size: 3.2vw;
