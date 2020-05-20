@@ -1262,8 +1262,78 @@ p.para-text-land {
 
 }
 
-@media only screen and (min-width: 120em) {
+@media only screen and (min-width: 120em) and (max-width: 142.4375em)  {
 	.header2-text {
+    font-size: 4vw;
+}
+
+.header1-text {
+    font-weight: 700;
+    font-size: 7vw;
+}
+
+#parallelogram {
+   position: relative;
+   width: 38vw;
+   height: 3vw;
+   transform: skew(-20deg);
+   background: #FBAF1A;
+   margin-left: -4%;
+}
+
+#parallelogram .para-landing-page {
+   font-size: 2vw;
+   color: #000;
+}
+#scnd-parallelogram {
+   position: absolute;
+   width: 25vw;
+   height: 5vw;
+   transform: skew(-20deg);
+   background: #0652DD;
+   margin-left: 35.6%;
+   margin-top: -4%;
+}
+#scnd-parallelogram .scnd-para-text {
+   font-size: 3vw;
+}
+
+.img-icon-rg {
+    margin-left: 0px;
+    margin-bottom: 60px;
+    margin-right: 0px;
+    height: 100px;
+    width: 500px;
+}
+
+p.para-text-land {
+    font-size: 18px;
+    text-align: center;
+    margin: 2px 8px;
+    width: 100%;
+}
+
+p.text-center.text-size {
+    font-size: 1.5rem;
+}
+
+
+span.serviceType{
+  font-size: 2rem;
+}
+
+span.servicePrice{
+  font-size: 2rem;
+}
+.rg-btn{
+  font-size: 2rem;
+}
+
+}
+
+/*2280*/
+@media only screen and (min-width: 142.5em){
+  .header2-text {
     font-size: 4vw;
 }
 
