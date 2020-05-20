@@ -1296,4 +1296,23 @@ p.para-text-land {
    font-size: 3vw;
 }
 
+.img-icon-rg {
+    margin-left: 0px;
+    margin-bottom: 60px;
+    margin-right: 0px;
+    height: 100px;
+    width: 500px;
+}
+
+p.para-text-land {
+    font-size: 18px;
+    text-align: center;
+    margin: 2px 8px;
+    width: 100%;
+}
+
+p.text-center.text-size {
+    font-size: 1.5rem;
+}
+
 }
