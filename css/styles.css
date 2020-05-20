@@ -1220,3 +1220,42 @@ p.para-text-land {
     font-size: 3.5vw;
 }
 }
+
+/*--1541---*/
+@media only screen and (min-width: 100em) {
+	.header2-text {
+    font-size: 5vw;
+}
+
+.header1-text {
+    font-weight: 700;
+    font-size: 8vw;
+}
+
+#parallelogram {
+    position: relative;
+    width: 40vw;
+    height: 4vw;
+    transform: skew(-20deg);
+    background: #FBAF1A;
+    margin-left: 6%;
+}
+#parallelogram .para-landing-page {
+    font-size: 2.2vw;
+    color: #000;
+}
+
+#scnd-parallelogram {
+    position: absolute;
+    width: 30vw;
+    height: 6vw;
+    transform: skew(-20deg);
+    background: #0652DD;
+    margin-left: 44.6%;
+    margin-top: -5%;
+}
+
+#scnd-parallelogram .scnd-para-text {
+    font-size: 3.5vw;
+}
+}
