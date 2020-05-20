@@ -1221,7 +1221,7 @@ p.para-text-land {
 }
 }
 
-/*--1541---*/
+/*--1600px---*/
 @media only screen and (min-width: 100em) {
 	.header2-text {
     font-size: 5vw;
@@ -1258,6 +1258,42 @@ p.para-text-land {
    font-size: 3.2vw;
 }
 
+}
 
+@media only screen and (min-width: 120em) {
+	.header2-text {
+    font-size: 5vw;
+}
+
+.header1-text {
+    font-weight: 700;
+    font-size: 8vw;
+}
+
+#parallelogram {
+   position: relative;
+   width: 37vw;
+   height: 3vw;
+   transform: skew(-20deg);
+   background: #FBAF1A;
+   margin-left: 6%;
+}
+
+#parallelogram .para-landing-page {
+   font-size: 2vw;
+   color: #000;
+}
+#scnd-parallelogram {
+   position: absolute;
+   width: 29vw;
+   height: 5vw;
+   transform: skew(-20deg);
+   background: #0652DD;
+   margin-left: 40.6%;
+   margin-top: -4%;
+}
+#scnd-parallelogram .scnd-para-text {
+   font-size: 3.2vw;
+}
 
 }
