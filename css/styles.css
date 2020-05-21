@@ -945,6 +945,47 @@ p.service-pkg-text {
 
 }
 
+
+/*--720 - 721px---*/
+@media only screen and (min-width: 45em) and (max-width: 45.0625em) {
+
+  .header2-text {
+      font-size: 6vw;
+  }
+  .header1-text {
+      font-weight: 700;
+      font-size: 9vw;
+  }
+  #parallelogram {
+      position: relative;
+      width: 46vw;
+      height: 4vw;
+      transform: skew(-20deg);
+      background: #FBAF1A;
+      margin-left: -3%;
+  }
+
+  #parallelogram .para-landing-page {
+      font-size: 2.5vw;
+      color: #000;
+  }
+
+  #scnd-parallelogram {
+      position: absolute;
+      width: 30vw;
+      height: 6vw;
+      transform: skew(-20deg);
+      background: #0652DD;
+      margin-left: 43.6%;
+      margin-top: -5%;
+  }
+
+  #scnd-parallelogram .scnd-para-text {
+      font-size: 3.5vw;
+  }
+
+}
+
 /*767--990*/
 
 @media only screen and (min-width: 47.9375em) and (max-width: 61.875em) {
