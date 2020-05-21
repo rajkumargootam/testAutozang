@@ -1421,10 +1421,10 @@ span.servicePrice{
   #parallelogram {
      position: relative;
      width: 37vw;
-     height: 3.5vw;
+     height: 3.2vw;
      transform: skew(-20deg);
      background: #FBAF1A;
-     margin-left: -8%;
+     margin-left: -12%;
   }
 
   #parallelogram .para-landing-page {
@@ -1435,10 +1435,10 @@ span.servicePrice{
   #scnd-parallelogram {
      position: absolute;
      width: 25vw;
-     height: 5vw;
+     height: 4.5vw;
      transform: skew(-20deg);
      background: #0652DD;
-     margin-left: 32.6%;
+     margin-left: 30.6%;
      margin-top: -4%;
   }
   #scnd-parallelogram .scnd-para-text {
