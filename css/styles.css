@@ -1460,28 +1460,28 @@ span.servicePrice{
 
   #parallelogram {
      position: relative;
-     width: 37vw;
-     height: 3.2vw;
+     width: 28vw;
+     height: 2.6vw;
      transform: skew(-20deg);
      background: #FBAF1A;
-     margin-left: -12%;
+     margin-left: 0%;
   }
 
   #parallelogram .para-landing-page {
-     font-size: 2vw;
+     font-size: 1.5vw;
      color: #000;
   }
 
   #scnd-parallelogram {
      position: absolute;
-     width: 25vw;
-     height: 4.5vw;
+     width: 22vw;
+     height: 4vw;
      transform: skew(-20deg);
      background: #0652DD;
-     margin-left: 30.6%;
-     margin-top: -4%;
+     margin-left: 27.6%;
+     margin-top: -3%;
   }
   #scnd-parallelogram .scnd-para-text {
-     font-size: 3vw;
+     font-size: 2.5vw;
   }
 }
