@@ -1405,3 +1405,43 @@ span.servicePrice{
 }
 
 }
+
+
+/*2340*/
+@media only screen and (min-width: 146.25em){
+  .header2-text {
+    font-size: 4vw;
+  }
+
+  .header1-text {
+      font-weight: 700;
+      font-size: 7vw;
+  }
+
+  #parallelogram {
+     position: relative;
+     width: 37vw;
+     height: 3.5vw;
+     transform: skew(-20deg);
+     background: #FBAF1A;
+     margin-left: -8%;
+  }
+
+  #parallelogram .para-landing-page {
+     font-size: 2vw;
+     color: #000;
+  }
+
+  #scnd-parallelogram {
+     position: absolute;
+     width: 25vw;
+     height: 5vw;
+     transform: skew(-20deg);
+     background: #0652DD;
+     margin-left: 32.6%;
+     margin-top: -4%;
+  }
+  #scnd-parallelogram .scnd-para-text {
+     font-size: 3vw;
+  }
+}
