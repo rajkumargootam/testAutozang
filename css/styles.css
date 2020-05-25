@@ -325,7 +325,73 @@ button.royal-standard.active span.servicePrice{ color : #FFF;}
   color:#FFF;
   background: #FBAF1A;
 }
+/*---------- SOCIAL MEDIA ICONS -------------*/
 
+.icon-bar {
+  position: fixed;
+  top: 30%;
+  right: 0px;
+  width:200px;
+  z-index:999;
+  display:flex;
+  flex-direction: column;
+
+}
+.icon-bar  a {
+  text-decoration:none;
+  text-transform: uppercase;
+  padding:10px;
+  font-size:22px;
+  margin:2px;
+  text-align: left;
+  border-radius: 50px 0px 0px 50px;
+  transform:translate(140px,0px);
+  transition: all 0.5s;
+}
+
+.icon-bar  a:hover{
+  transform: translate(0px,0px);
+  color: white;
+}
+
+.icon-bar  a  i {
+  margin-right:12px;
+  background-color: #FFF;
+  height:40px;
+  width:40px;
+  color: black;
+  text-align: center;
+  line-height:40px;
+  border-radius: 50%;
+  transition: all 0.5s;
+}
+
+.icon-bar  a  i  .viber{
+  color: #665CAC;
+}
+
+.icon-bar  a  i  .whatsapp{
+  color: #4FCE5D;
+}
+
+.icon-bar  a  i  .facebook-messenger{
+  color: #0084FF;
+}
+
+.viber{
+  background-color: #665CAC;
+  color: white;
+}
+
+.whatsapp {
+  background-color: #4FCE5D;
+  color: white;
+}
+
+.facebook-messenger {
+  background-color: #0084FF;
+  color: white;
+}
 
 /*----------- Services Section --------------*/
 #services {
